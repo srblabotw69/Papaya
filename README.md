@@ -1,6 +1,7 @@
 # Papaya
 
 ================
+
 Overview
 
 
@@ -9,7 +10,9 @@ and then displays an IPFS image on a website.
 
 ![image](https://user-images.githubusercontent.com/6956428/221739042-77a7a8ac-7c4d-40cd-b224-c25560090e1a.png)
 
+
 ================
+
 Installation
 
 
@@ -31,10 +34,11 @@ e.g.   REACT_APP_PRIVATE_KEY=<WALLET KEY>
 
 
 ================
+
 Smart Contracts
 
 
-The following three smart contracts were modified where appropriate and then deployed to FEVM:
+The following three smart contracts were adapted from https://github.com/rk-rishikesh/DataDAO and then modified where appropriate:
 
 
 Deploying DataDAO...
@@ -48,6 +52,7 @@ dataDAOExampleContract deployed to: 0xE0F7eAdD59681f2121DaB546a030C3da57fdb1eF
  
 
 ================
+
 Resources
 
 

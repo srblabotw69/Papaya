@@ -30,7 +30,14 @@ e.g.   PRIVATE_KEY=<WALLET KEY>
 put wallet private key in "\fevm-hardhat-kit-data-dao-frontend\.env"
 e.g.   REACT_APP_PRIVATE_KEY=<WALLET KEY>
 
+Run
+---------------
+ 
+cd fevm-hardhat-kit-data-dao-frontend
+yarn run start
 
+ 
+ 
 Smart Contracts
 ---------------
 

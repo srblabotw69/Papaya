@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"VisualStudioProjects/Filecoin/fevm-hardhat-kit-data-dao/contracts/my-data-dao/filecoin-solidity/v0.8/utils/Actor.sol": "HyperActor"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@openzeppelin/contracts/utils/Strings.sol": {
+			"keccak256": "0xa4d1d62251f8574deb032a35fc948386a9b4de74b812d4f545a1ac120486b48a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8c969013129ba9e651a20735ef659fef6d8a1139ea3607bd4b26ddea2d645634",
+				"dweb:/ipfs/QmVhVa6LGuzAcB8qgDtVHRkucn4ihj5UZr8xBLcJkP6ucb"
+			]
+		},
+		"@openzeppelin/contracts/utils/math/Math.sol": {
+			"keccak256": "0xa1e8e83cd0087785df04ac79fb395d9f3684caeaf973d9e2c71caef723a3a5d6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33bbf48cc069be677705037ba7520c22b1b622c23b33e1a71495f2d36549d40b",
+				"dweb:/ipfs/Qmct36zWXv3j7LZB83uwbg7TXwnZSN1fqHNDZ93GG98bGz"
+			]
+		},
+		"VisualStudioProjects/Filecoin/fevm-hardhat-kit-data-dao/contracts/my-data-dao/filecoin-solidity/v0.8/utils/Actor.sol": {
+			"keccak256": "0x3eb3fb5ae14274cf7b9443cd423d568570b9109af7c6aea6258ff2f32b543f9e",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://f68b80ea2315d723a7eb1104b3d61043c7ac94a2acf08e2e9d366708f59dcb37",
+				"dweb:/ipfs/QmckZCNXrdHbHKXWYBW7j57kuKL4g6xmp3ZaFW6JPzbcvR"
+			]
+		},
+		"VisualStudioProjects/Filecoin/fevm-hardhat-kit-data-dao/contracts/my-data-dao/filecoin-solidity/v0.8/utils/Misc.sol": {
+			"keccak256": "0x2b7477d6d6f83047a2c2b988fa924d2826a8271137f80d2b77ebba6936fd45b4",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://c32901c3e71deff9340227d0c03f391e821a8f66d45d9b4d44419c4b0fb8291a",
+				"dweb:/ipfs/QmZUSsC1cHW5S4Dw52dd8k28qfnTBVQTpUPVzCdGKhatcX"
+			]
+		}
+	},
+	"version": 1
+}

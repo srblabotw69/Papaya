@@ -1,0 +1,144 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IDataDAO",
+  "sourceName": "contracts/my-data-dao/data-dao/interfaces/IDataDAO.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "DataDAO_CallerIsNotMember",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DataDAO__CallerIsNotAdmin",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DataDAO__DataSizeNotMatched",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DataDAO__DealProposalPolicyCheckFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DataDAO__DealProposalWasNotApproved",
+      "type": "error"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "address",
+          "name": "adminAddress",
+          "type": "address"
+        }
+      ],
+      "name": "AdminAdded",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "bytes",
+          "name": "cidraw",
+          "type": "bytes"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "dealStartBlockStamp",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "dealDurationInDays",
+          "type": "uint256"
+        }
+      ],
+      "name": "DealAcivated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "bytes",
+          "name": "cidraw",
+          "type": "bytes"
+        },
+        {
+          "indexed": false,
+          "internalType": "bytes32",
+          "name": "decision",
+          "type": "bytes32"
+        }
+      ],
+      "name": "DealApproval",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "bytes",
+          "name": "cidraw",
+          "type": "bytes"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "size",
+          "type": "uint256"
+        }
+      ],
+      "name": "DealProposed",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "address",
+          "name": "memberAddress",
+          "type": "address"
+        }
+      ],
+      "name": "MemberAdded",
+      "type": "event"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "bytes",
+          "name": "_cidraw",
+          "type": "bytes"
+        }
+      ],
+      "name": "getDealState",
+      "outputs": [
+        {
+          "internalType": "enum IDataDAO.DealState",
+          "name": "",
+          "type": "uint8"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

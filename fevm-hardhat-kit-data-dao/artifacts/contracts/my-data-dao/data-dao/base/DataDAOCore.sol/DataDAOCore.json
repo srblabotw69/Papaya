@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "DataDAOCore",
+  "sourceName": "contracts/my-data-dao/data-dao/base/DataDAOCore.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220132a8399ed0e5e850c0f8a1ba6f0683c9c95578485653b9df205b94bfac643c164736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220132a8399ed0e5e850c0f8a1ba6f0683c9c95578485653b9df205b94bfac643c164736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

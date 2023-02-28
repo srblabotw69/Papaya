@@ -2,7 +2,7 @@
 
 ================
 Overview
-================
+
 
 Papaya is a pay to view an image web app built on the Filecoin FEVM ecosystem.  It runs smart contracts on FEVM to facilitate access control 
 and then displays an IPFS image on a website.
@@ -10,7 +10,7 @@ and then displays an IPFS image on a website.
 
 ================
 Installation
-================
+
 
 git clone https://github.com/srblabotw69/papaya
 
@@ -31,7 +31,7 @@ e.g.   REACT_APP_PRIVATE_KEY=<WALLET KEY>
 
 ================
 Smart Contracts
-================
+
 
 The following three smart contracts were modified where appropriate and then deployed to FEVM:
 
@@ -46,7 +46,7 @@ dataDAOExampleContract deployed to: 0xE0F7eAdD59681f2121DaB546a030C3da57fdb1eF
 
 ================
 Resources
-================
+
 
 https://github.com/filecoin-project/fevm-hardhat-kit
 

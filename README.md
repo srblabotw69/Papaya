@@ -7,8 +7,7 @@ Overview
 Papaya is a pay to view an image web app built on the Filecoin FEVM ecosystem.  It runs smart contracts on FEVM to facilitate access control.
 After joining a DataDAO via a NFT membership, the user will be able to view an image.
 
-
-<img width="845" alt="papaya" src="https://user-images.githubusercontent.com/6956428/221746038-0565c9a1-dfab-4aaa-a845-963babd9a3ca.png">
+<img width="818" alt="papaya" src="https://user-images.githubusercontent.com/6956428/221747405-88c86203-a2ac-4e6f-b645-ea54df25d5a3.png">
 
 
 Installation

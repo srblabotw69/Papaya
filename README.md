@@ -38,8 +38,10 @@ The following three smart contracts were modified where appropriate and then dep
 
 Deploying DataDAO...
 dataDAOContract deployed to: 0x409Ca92Af26DA7a7D5719082CbcBDD0c4172FA2f
+ 
 Deploying MembershipNFT...
 MembershipNFT deployed to: 0x57a9179d4725B4567aad572Ba62fA137B94217ca
+ 
 Deploying dataDAOExample...
 dataDAOExampleContract deployed to: 0xE0F7eAdD59681f2121DaB546a030C3da57fdb1eF
  
